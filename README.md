@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Alex Antônio Pasini
 
 - 🔭 Atualmente não estou trabalhando
-- 🌱 Estudando Angular e Python
+- 🌱 Estudante em programção: Java, SpringBoot, Angular, Next.js
 - 📫 Contate-me no email: alexantoiopasini20@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexPasini)](https://github.com/alexPasini/github-readme-stats )
